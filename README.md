@@ -1,4 +1,4 @@
-# waiter-web-app
+# Recipes SPA (SubSec)
 
 > A Vue.js project
 
