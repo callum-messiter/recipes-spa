@@ -2,6 +2,15 @@
 
 > A Vue.js project
 
+## Dependencies
+
+- NPM >= v5.2.0
+- Node >= v8.9.3
+
+## TODO
+
+Viewing the details of a single recipe. This might work by clicking one of the recipes, which would trigger navigation to a new screen: `/recipe/:recipeId`.
+
 ## Build Setup
 
 ``` bash
