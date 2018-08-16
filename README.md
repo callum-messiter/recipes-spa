@@ -9,7 +9,8 @@
 
 ## TODO
 
-Viewing the details of a single recipe. This might work by clicking one of the recipes, which would trigger navigation to a new screen: `/recipe/:recipeId`.
+- Viewing the details of a single recipe. This might work by clicking one of the recipes, which would trigger navigation to a new screen: `/recipe/:recipeId`
+- Allowing the user to select a max cooking time, rather than simply entering a string
 
 ## Build Setup
 
